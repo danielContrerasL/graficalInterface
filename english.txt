@@ -1,0 +1,47 @@
+main_window_title=Start Window
+start=Start
+about=About
+table=Table
+unused_window=Unused Window
+window=Window
+language=Language
+spanish=Spanish
+english=English
+car_list=Car List
+//about-------------------------------------
+uptc=Pedagogical and Technological University \nfrom Colombia
+//table-------------------------------------
+table_title=information table
+table_name=Name
+table_load=Load
+table_last_name=Last Name
+table_gender=Gender
+table_add_button=Add
+table_add__car_button=Add Car
+//complete--------------------------------
+complete_title=To Complete Data
+complete_name=Name
+complete_last_name=Last Name
+complete_born_date=Born Date
+complete_user_code=User Code
+complete_save=Save
+complete_gender=Gender
+complete_man=Man
+complete_woman=Woman
+//Complete add Car-------------------------------
+complete_car_title=Complet Data Car
+complete_car_stamp=Stamp
+complete_car_model=Model
+complete_car_license_plate=License Plate
+complete_car_color=Color
+complete_car_save=Save
+complete_car_box_car=Box
+complete_car_automatic_box_car=Automatic
+complete_car_mecanic_box_car=Mecanic
+//Error----------------------------------
+error_extension_overrides=Extension Overrides
+error_no_gender=Genderless	
+//Color window----------------------------------
+color_title=Color
+//close for all---------------------------------
+close_button=Close

@@ -1,0 +1,47 @@
+main_window_title = Inicio
+start=Inicio
+about=Acerca De
+table=Tabla
+unused_window=Ventana sin uso
+window=Ventana
+language=Idioma
+spanish=Español
+english=Inlges
+car_list=Lista De Carros
+//about------------------------------------------
+uptc=Universidad Pedagogica y Tecnologica \nde Colombia
+//table------------------------------------------
+table_title=Tabla de Informacion
+table_name=Nombre
+table_load=Cargar
+table_last_name=Apellido
+table_gender=Genero
+table_add_button=Agregar
+table_add__car_button=Agregar Carro
+//complete------------------------------
+complete_title=Completar Datos
+complete_name=Nombre
+complete_last_name=Apellido
+complete_born_date=Fecha de Nacimiento
+complete_user_code=Codigo de Usuario
+complete_save=Guardar
+complete_gender=Genero
+complete_man=Hombre
+complete_woman=Mujer
+//Complete add Car-----------------------------
+complete_car_title=Completar Datos Carro
+complete_car_stamp=Marca
+complete_car_model=Modelo
+complete_car_license_plate=Placa
+complete_car_color=Color
+complete_car_save=Guardar
+complete_car_box_car=Caja
+complete_car_automatic_box_car=Automática
+complete_car_mecanic_box_car=Mecánica
+//Error----------------------------------
+error_extension_overrides=Extension invalida
+error_no_gender=Sin Genero
+//Color window----------------------------------
+color_title=Color
+//close for all--------------------------
+close_button=Cerrar
